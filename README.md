@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RunAtTekky aka Varun Rawat
 - 👀 I’m interested in Competitive Programming
-- 📫 How to reach me ... @annutekky on instagram
+- 📫 How to reach me ... www.linktr.ee/RunAt
 
 <!---
 RunAtTekky/RunAtTekky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
