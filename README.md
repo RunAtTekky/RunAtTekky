@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RunAtTekky aka Varun Rawat
-- 👀 I’m interested in Competitive Programming
+- 👀 I’m interested in Open Source and Competitive Programming
 - 📫 How to reach me ... www.linktr.ee/RunAt
 
 <!---
