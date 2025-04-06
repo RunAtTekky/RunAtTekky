@@ -5,9 +5,11 @@
 <br/>
  
 <div align="center"> 
-  <a href="https://www.linktr.ee/RunAt/" target="_blank">
-    <h3>LinkTree</h3>
+    <h3> <a href="https://www.linktr.ee/RunAt/" target="_blank">
+     LinkTree
   </a>
+    </h3>
+ 
 
 </div>
 
