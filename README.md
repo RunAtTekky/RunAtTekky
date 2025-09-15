@@ -1,37 +1,29 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runattekky&label=Profile%20views&color=0e75b6&style=flat" alt="runattekky" /> </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Varun+Rawat!;" />
+  Hi! I'm Varun Rawat!
 </h1>
 
-<br/>
- 
 <div align="center"> 
-    <h3> <a href="https://www.linktr.ee/RunAt/" target="_blank">
-     LinkTree
-  </a>
-    </h3>
- 
-
+  <h3>
+    Here is my <a href="https://www.linktr.ee/RunAt/" target="_blank"> LinkTree </a>
+  </h3>
 </div>
 
- <br/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-        <img src="https://skillicons.dev/icons?i=svelte,go,react,neovim,vscode,github,git" /><br />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,cpp,java,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=svelte,go,react,neovim,vscode,github,git" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,cpp,java,bash" /><br>
 </div>
-<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=runattekky&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=runattekky&count_private=true&show_icons=true&include_all_commits=true&theme=react&border_radius=10" alt="Latte User Preview">
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=runattekky&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RunAtTekky&theme=nightowl&show_icons=true&hide_border=false&count_private=true" height="150" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RunAtTekky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=RunAtTekky&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RunAtTekky&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
